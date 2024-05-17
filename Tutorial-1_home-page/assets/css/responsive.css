@@ -1,0 +1,63 @@
+@media screen and (min-width: 768px) {
+
+    /* navbar menu */
+    .navbar-menu {
+        display: block !important;
+    }
+
+    .navbar-menu ul {
+        position: initial !important;
+        top: initial !important;
+        left: initial !important;
+        flex-direction: row !important;
+    }
+
+    .navbar-menu ul li {
+        padding: 0 5px !important;
+    }
+
+
+
+    /* navbar-button */
+    .navbar-button .btn {
+        position: initial !important;
+        top: initial !important;
+        right: 0 !important;
+        display: block !important;
+    }
+
+    .navbar-button a.btn:hover {
+        color: var(--primary-color);
+        border: 2px solid var(--primary-color);
+    }
+
+    /* navbar-hide menu-btn */
+    .navbar-hidemenu-btn {
+        display: none !important;
+    }
+
+    /* hero */
+    .hero-header {
+        max-width: 600px;
+    }
+
+    .hero-paragraph {
+        max-width: 500px !important;
+    }
+    /* end */
+
+    /* about */
+    .about{
+        display: flex !important;
+        flex-direction: row-reverse;
+
+    }
+    .contact form{
+        width: 50% !important;
+        margin: 0 auto !important;
+        /* max-width: 50% !important; */
+    }
+    .form-control{
+        max-width: 100% !important;
+    }
+}
