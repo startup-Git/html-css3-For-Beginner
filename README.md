@@ -92,21 +92,20 @@ Welcome to <b>html-css3-For-Beginner</b>, a comprehensive resource designed to i
 </ul>
 
 
-<h3>
-  Getting Started
-</h3>
-<b>
-  To get started, clone the repository to your local machine:
-</b>
-<br>
- git clone https://github.com/startup-Git/html-css3-For-Beginner.git
-<br>
-<br>
-<p>
-<b>Navigate to the project directory:</b>
-<br>
-cd html-css3-For-Beginner <br>
 
+## Getting Started
+
+  To get started, clone the repository to your local machine:
+
+```bash
+ git clone https://github.com/startup-Git/html-css3-For-Beginner.git
+```
+<p>
+Navigate to the project directory:
+  
+```bash
+cd html-css3-For-Beginner 
+```
   Open the <b> 'index.html' </b> file in your web browser to see the example projects and start learning.
 </p>
 
